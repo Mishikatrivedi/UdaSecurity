@@ -1,0 +1,4 @@
+--patch-module
+com.udacity.catpoint.images=_
+--add-reads
+com.udacity.catpoint.images=ALL-UNNAMED
